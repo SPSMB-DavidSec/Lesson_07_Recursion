@@ -1,4 +1,4 @@
-# Lesson_07_Recursion
+# Lesson_07_Rekurze
 
 Uvedené body níže vypracujte do projektu Current.
 
